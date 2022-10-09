@@ -1,5 +1,5 @@
 # Note
-This is design to smartphone to experience WebAR, please make sure before playing.
+This is design for smartphone to experience WebAR, please make sure before playing.
 
 # Step
 [WebAR on Phone](https://g0983230881.github.io/)  
